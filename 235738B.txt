@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-echigo
-=======
-235738B えちごれいきが作成。
->>>>>>> teamA
+this is 235738B reiki's file
